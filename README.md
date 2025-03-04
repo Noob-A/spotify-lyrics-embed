@@ -22,6 +22,10 @@ This Tampermonkey script automatically fetches and embeds **song lyrics** from [
 
 
 
+https://github.com/user-attachments/assets/f6e32aab-6665-4d80-8069-69eb693a6c14
+
+
+
 
 
 ## Requirements
