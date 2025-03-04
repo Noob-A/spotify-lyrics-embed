@@ -17,8 +17,8 @@ This Tampermonkey script automatically fetches and embeds **song lyrics** from [
 4. Save and enable the script.
 5. ENABLE THE NOW PLAYING VIEW: <br>![image](https://github.com/user-attachments/assets/a3818a9d-b46b-4f4a-ba85-52a4dbe4fd18)
 6. Open [Spotify Web Player](https://open.spotify.com) and play some music.
-7. You should see it appear:
-8. ![image](https://github.com/user-attachments/assets/fb4830ca-03f4-498a-a453-645707bafc1f)
+7. You should see it appear:<br>![image](https://github.com/user-attachments/assets/9b83ac1b-a060-4982-a91f-4dfe38022fe2)
+
 
 
 
